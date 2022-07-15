@@ -1,6 +1,7 @@
 # bilinear_transform
 
 #k=1
+
 Filter coefficients b_i: [ 0.00016645  0.00016645 -0.00016645 -0.00016645]
 
 Filter coefficients a_i: [ 2.96317751 -2.92702108  0.96384339]
